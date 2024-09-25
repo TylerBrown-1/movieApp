@@ -35,8 +35,8 @@ System.out.println("First movie" + favGenre[1]); //last item in my array
         String releaseYear = "2004";
         byte movieRatingStars = 4;
         int numberOfReviews = 246_487;
-        long watch = 6543543435443444343L;
-
+        long watch = 6543543435443444343
+//M
         System.out.println("Hi " + username);
         System.out.println("What kind of " + genrePreference + "would you like to see today?" );
         System.out.println("Title 2 =" + actionMovies[1]);
